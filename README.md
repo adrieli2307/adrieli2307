@@ -14,7 +14,7 @@
 
 - 👯 Colaborare en proyectos como [Data Lovers / Harry Potter](https://adrieli2307.github.io/DEV005-data-lovers/src/index.html)
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https ://github.com/adrieli2307](https://github.com/adrieli2307)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/adrieli2307?tab=repositories](https://github.com/adrieli2307?tab=repositories)
 
 - 📄 Conoce mis experiencias [https://tinyurl.com/2eu3wwv4](https://tinyurl.com/2eu3wwv4)
 
