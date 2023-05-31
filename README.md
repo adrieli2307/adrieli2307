@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Adriana Armijos</h1>
-<a href= "![image](https://github.com/adrieli2307/adrieli2307/assets/123612779/1920f1e6-f860-40cd-baad-9c9e39ae10ae)">
+<a href="https://github.com/adrieli2307/adrieli2307/assets/123612779/1920f1e6-f860-40cd-baad-9c9e39ae10ae">
+  <img src="https://github.com/adrieli2307/adrieli2307/assets/123612779/1920f1e6-f860-40cd-baad-9c9e39ae10ae" alt="Descripción de la imagen">
+</a>
 
 
 <h3 align="center">Soy una desarrolladora web junior con experiencia en JavaScript</h3>
@@ -10,13 +12,13 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL**
 
-- 👯 Colaborar en proyectos como [Social Network / Patitas.com](https://patitas-91318.web.app/)
+- 👯 Colaborare en proyectos como [Social Network / Patitas.com](https://patitas-91318.web.app/)
 
-- 👯 Colaborar en proyectos como [Data Lovers / Harry Potter](https://adrieli2307.github.io/DEV005-data-lovers/src/index.html)
+- 👯 Colaborare en proyectos como [Data Lovers / Harry Potter](https://adrieli2307.github.io/DEV005-data-lovers/src/index.html)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https ://github.com/adrieli2307](https://github.com/adrieli2307)
 
-- 📄 Conoce mis experiencias [https://docs.google.com/document/d/1IdVtMqisUPVaoLqnmSX-yDDvkJtAETN1jectVNXO6qU/edit?usp=sharing ](https://docs.google.com/document/d/1IdVtMqisUPVaoLqnmSX-yDDvkJtAETN1jectVNXO6qU/edit?usp=sharing)
+- 📄 Conoce mis experiencias [https://docs.google.com/document/d/1IdVtMqisUPVaoLqnmSX-yDDvkJtAETN1jectVNXO6qU/edit?usp=sharing ]([https://docs.google.com/document/d/1IdVtMqisUPVaoLqnmSX-yDDvkJtAETN1jectVNXO6qU/edit?usp=sharing](https://tinyurl.com/2eu3wwv4))
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
