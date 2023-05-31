@@ -1,12 +1,12 @@
 <h1 align="center">Hola 👋, soy Adriana Armijos</h1>
 <div style="text-align: center;">
-  <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" alt="Descripción de la imagen" style="display: block; margin: 0 auto; margin-left: 20px;">
+  <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" alt="Descripción de la imagen" style="display: block; margin: 0 auto; margin-left: 50px;">
 </div>
 
 <h3 align="center">Soy una desarrolladora web junior con experiencia en JavaScript</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrieli2307&label=Profile%20views&color=0e75b6&style=flat" alt="adrieli2307" /> </p>
 
-<p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github.com/adrieli2307"alt="adrieli2307" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL**
 
