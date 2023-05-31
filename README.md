@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Adriana Armijos</h1>
-<div style="text-align: center;">
+<div >
   <a href="https://github.com/adrieli2307/adrieli2307/assets/123612779/1920f1e6-f860-40cd-baad-9c9e39ae10ae">
     <img src="https://github.com/adrieli2307/adrieli2307/assets/123612779/1920f1e6-f860-40cd-baad-9c9e39ae10ae" alt="Descripción de la imagen" style="display: block; margin: 0 auto;">
   </a>
