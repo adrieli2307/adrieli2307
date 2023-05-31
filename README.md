@@ -26,6 +26,7 @@
 <a href="https://linkedin.com/in/adriana armijos" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriana armijos" alto="30" ancho="40" /></a>
 </p>
 
+
 <h3 align="left">Idiomas y herramientas:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
