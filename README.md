@@ -21,10 +21,11 @@
 
 - 📄 Conoce mis experiencias [https://tinyurl.com/2eu3wwv4](https://tinyurl.com/2eu3wwv4)
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adriana armijos" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriana armijos" alto="30" ancho="40" /></a>
+<a href="https://www.linkedin.com/in/adriana-armijos-721385185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriana armijos" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Idiomas y herramientas:</h3>
 <p align="left">
