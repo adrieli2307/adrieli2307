@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Adriana Armijos</h1>
 <div style="text-align: center;">
   <a href="https://github.com/adrieli2307/adrieli2307/assets/123612779/1920f1e6-f860-40cd-baad-9c9e39ae10ae">
-    <img src="https://github.com/adrieli2307/adrieli2307/assets/123612779/1920f1e6-f860-40cd-baad-9c9e39ae10ae" alt="Descripción de la imagen">
+    <img src="https://github.com/adrieli2307/adrieli2307/assets/123612779/1920f1e6-f860-40cd-baad-9c9e39ae10ae" alt="Descripción de la imagen" style="display: block; margin: 0 auto;">
   </a>
 </div>
 
@@ -21,12 +21,12 @@
 
 - 📄 Conoce mis experiencias [https://tinyurl.com/2eu3wwv4](https://tinyurl.com/2eu3wwv4)
 
-<h3 align="left">Conéctese conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adriana armijos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriana armijos" height="30" width="40" /></a> </p>
-<
+<a href="https://linkedin.com/in/adriana armijos" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriana armijos" alto="30" ancho="40" /></a>
+</p>
 
-h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Idiomas y herramientas:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
