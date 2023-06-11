@@ -10,9 +10,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL**
 
-- 👯 Colaborare en proyectos como [Social Network / Patitas.com](https://patitas-91318.web.app/)
+- 👯 Colaboré en proyectos como [Social Network / Patitas.com](https://patitas-91318.web.app/)
 
-- 👯 Colaborare en proyectos como [Data Lovers / Harry Potter](https://adrieli2307.github.io/DEV005-data-lovers/src/index.html)
+- 👯 Colaboré en proyectos como [Data Lovers / Harry Potter](https://adrieli2307.github.io/DEV005-data-lovers/src/index.html)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/adrieli2307?tab=repositories](https://github.com/adrieli2307?tab=repositories)
 
